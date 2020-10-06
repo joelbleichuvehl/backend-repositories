@@ -1,2 +1,2 @@
 # backend-repositories
-Rocketseat - GoStack Bootcamp. Application for a repositories CRUD
+Rocketseat - GoStack Bootcamp. Back-end application for a repositories CRUD(desafio)
